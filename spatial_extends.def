@@ -1,0 +1,5 @@
+LIBRARY		spatial_extends
+VERSION		1.0
+EXPORTS
+  st_asewkb
+  st_asewkb_init
